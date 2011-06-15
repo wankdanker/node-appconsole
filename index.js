@@ -1,2 +1,2 @@
-module.exports = require('lib/AppConsole.js');
+module.exports = require('./lib/AppConsole.js');
 
