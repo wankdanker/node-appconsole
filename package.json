@@ -1,6 +1,6 @@
 {
   "name": "appconsole",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A generic console for node applications",
   "main": "index.js",
   "dependencies": {
