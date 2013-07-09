@@ -1,0 +1,24 @@
+{
+  "name": "appconsole",
+  "version": "0.0.0",
+  "description": "A generic console for node applications",
+  "main": "index.js",
+  "dependencies": {
+    "dank-map": "~0.1.0",
+    "keypress": "~0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wankdanker/node-appconsole.git"
+  },
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "gitHead": "a71421d2bdb469555ed9d3c6d72ee78d6b3c70d6",
+  "bugs": {
+    "url": "https://github.com/wankdanker/node-appconsole/issues"
+  }
+}
